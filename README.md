@@ -1,2 +1,2 @@
-# open_alex_analysis
+# open-alex-analysis
 Code for analyzing Open Alex data
